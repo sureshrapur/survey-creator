@@ -4,7 +4,7 @@
 export var enStrings = {
   // survey templates
   survey: {
-    edit: "Edit",
+    edit: "Suresh-Edit",
     externalHelpLink: "Watch and learn how to create surveys",
     externalHelpLinkUrl: "https://www.youtube.com/channel/UCH2ru9okIcooNZfpIbyq4qQ?view_as=subscriber",
     dropQuestion: "Please drop a question here from the Toolbox.",
@@ -20,7 +20,7 @@ export var enStrings = {
   },
   // Creator tabs
   tabs: {
-    preview: "Preview",
+    preview: "Suresh-Preview",
     theme: "Themes",
     translation: "Translations",
     designer: "Designer",
